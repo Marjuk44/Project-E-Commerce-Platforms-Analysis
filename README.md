@@ -12,3 +12,6 @@ This is my idea to improve intially.
 Nevertheless, I can still try to figure out how can I extract n_sold_unit data through webscrapping. Which was done by manually. At a point to save time before the project, that was the only option. 
 
 Another painfull try could be fighting with temu captcha to extract data from the website. 
+
+PPT File link - https://www.canva.com/design/DAGP6GKwJYw/i7VNztw5GJiUe5OBCxbDfg/view?utm_content=DAGP6GKwJYw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+Presentation link - https://youtu.be/5YjROacs1z8
