@@ -14,6 +14,7 @@ This project focuses on analyzing product prices and popularity across three maj
 - Webscrap amazon to extract n_sold_unit which conducted manually to save time before final submission.
 - Keep fighting with Temu captcha to extract data from this website. 
 
-### PPT File link: https://www.canva.com/design/DAGP6GKwJYw/i7VNztw5GJiUe5OBCxbDfg/view
 
-### Presentation link: https://youtu.be/5YjROacs1z8
+
+### PPT File link: https://www.canva.com/design/DAGP6GKwJYw/i7VNztw5GJiUe5OBCxbDfg/view
+### Presentation speech link: https://youtu.be/5YjROacs1z8
