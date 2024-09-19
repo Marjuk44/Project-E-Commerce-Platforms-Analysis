@@ -1,4 +1,4 @@
-# Project-Online-Shopping-Store-Analysis
+# Project-E-Commerce-Platforms-Analysis
 Final Project for the Data Analytics Full Time Bootcamp (Jul'24) at Ironhack, Lisbon.
 
 ## Introduction
