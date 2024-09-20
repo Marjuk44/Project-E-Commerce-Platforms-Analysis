@@ -11,7 +11,7 @@ This project focuses on analyzing product prices and popularity across three maj
 ## 1st Step: Collecting Data
 The first and the biggest challange faced for the project was data collecetion step. 
 
-- While scrapping the sites, tey automatically detect our code as a "Bot" only after a few try.
+- While scrapping, the sites automatically detect written code as a "Bot" only after a few try.
 - Configuring the function "time.sleep" and "random.uniform" played a vital role to not get detect as 🤖
 - The code automatically read the whole catalog page, collect selected data and store them in a data frame.
 - Selenium helps to fetch number of sold unit and/or number of product review from the product page.
