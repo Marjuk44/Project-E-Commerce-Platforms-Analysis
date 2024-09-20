@@ -75,8 +75,9 @@ After analysing the data a few business idea rises for this project. In order to
 - The product popularity comparing application can really have a good impact.
 - According to the survey there is a demand among user for this application.
 
-### PPT file link: https://www.canva.com/design/DAGP6GKwJYw/i7VNztw5GJiUe5OBCxbDfg/view
-### Presentation speech link: https://youtu.be/5YjROacs1z8
+### PPT file: https://www.canva.com/design/DAGP6GKwJYw/i7VNztw5GJiUe5OBCxbDfg/view
+### Presentation link: https://youtu.be/5YjROacs1z8
+### Survey responses link: https://docs.google.com/spreadsheets/d/1ToCmsEUezCyCtrjkPHtraO8FoQCqJDnHHXRfYKIZWfs/edit?usp=sharing
 
 
 
